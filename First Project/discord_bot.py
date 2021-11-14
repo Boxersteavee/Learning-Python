@@ -130,3 +130,4 @@ async def ended(ctx):
   
 
 client.run('Nzk4MTgwNjU3NTcwMjUwODEz.X_xRqg.uVvUmcrVeeni3bR39p1a9hBORQo')
+# this token is invalid btw. I am leaving it so you can see how you can add a token.
